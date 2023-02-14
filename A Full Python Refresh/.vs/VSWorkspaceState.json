@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\05_lists_tuples_sets",
-    "\\06_advanced_set_operations"
+    "\\08_if_statements",
+    "\\17_default_parameter_values",
+    "\\18_functions_returning_values"
   ],
-  "SelectedNode": "\\06_advanced_set_operations\\code.py",
+  "SelectedNode": "\\18_functions_returning_values\\code.py",
   "PreviewInSolutionExplorer": false
 }
